@@ -4,12 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Thiago Henrique Marques Soares
+- Matricula: 926400
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![PrintConsole](images/PrintConsole.png)
 
 
 
